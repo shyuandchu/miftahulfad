@@ -3,7 +3,7 @@ My name is Miftahul Nur Fadilah. I'am a Undergraduate Geophysics at Gadjah Mada 
 
 ### About me
 - 📧 How to reach me **miftahulnurfadilah@mail.ugm.ac.id**
-- ⚡ Fun fact **I enthusiast of Reading Newspaper, Hiking, and Watching Football Match**
+- 📍 Fun fact **I enthusiast of Reading Newspaper, Hiking, and Watching Football Match**
 - 💡 I'm currently learning about Geoscience
   
 ### You can find me
